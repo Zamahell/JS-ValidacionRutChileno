@@ -49,7 +49,7 @@ console.log(Validador.esValido)
 
 
 
-//PORFINNNN CTM APRENDI A VALIAR EN JS SEXOOOOOOOOO
+
 
 
 
